@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Массивы/untitled.iml" filepath="$PROJECT_DIR$/Массивы/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/МассивыВсе/Masivs Mnogomer/Masivs Mnogomer.iml" filepath="$PROJECT_DIR$/МассивыВсе/Masivs Mnogomer/Masivs Mnogomer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/МассивыВсе/Массивы/untitled.iml" filepath="$PROJECT_DIR$/МассивыВсе/Массивы/untitled.iml" />
     </modules>
   </component>
 </project>
